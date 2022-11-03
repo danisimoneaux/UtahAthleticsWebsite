@@ -1,6 +1,6 @@
 <?php
 
-$hn = 'localhost:8889';
+$hn = 'localhost:xxxx'; #include your own here - changed for security purposes
 $db = 'utahathletics';
 $un = 'root';
 $pw = 'root';
