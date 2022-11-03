@@ -1,0 +1,33 @@
+.line {
+    color:black;
+}
+
+head {
+    background-color: rgb(169, 28, 28);
+    image-orientation: center;
+}
+
+body {
+    background-color: rgb(169, 28, 28);
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+
+h1 {
+    background-color: rgb(169, 28, 28);
+    color: rgb(194, 11, 11);
+    text-align: center;
+    padding-top: .1in;
+}
+
+h2 {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+footer {
+    text-align: center;
+    padding-top: 1pt;
+  }
